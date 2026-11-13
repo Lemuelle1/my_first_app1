@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'My First App',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
-          seedColor: Colors.teal,
+          seedColor: Colors.purple,
         ),
         useMaterial3: true,
       ),
